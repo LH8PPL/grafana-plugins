@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "id": "volkovlabs-echarts-panel",
+      "type": "panel",
+      "url": "https://github.com/VolkovLabs/volkovlabs-echarts-panel",
+      "versions": [
+        {
+          "version": "4.3.1"
+        }
+      ]
+    }
+  ]
+}
